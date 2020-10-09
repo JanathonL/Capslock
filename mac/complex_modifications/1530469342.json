@@ -190,9 +190,7 @@
           },
           "to": [
             {
-              "mouse_key": {
-                "y": 1536
-              }
+              "key_code": "down_arrow"
             }
           ],
           "type": "basic"
@@ -300,9 +298,7 @@
           },
           "to": [
             {
-              "mouse_key": {
-                "y": -1536
-              }
+              "key_code": "up_arrow"
             }
           ],
           "type": "basic"
